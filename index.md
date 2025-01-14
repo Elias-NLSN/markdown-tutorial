@@ -2,6 +2,11 @@
 
 Used for github tutorials ig
 
+- [x] Learning how to use github
+- [ ] Know how to code
+
+
+
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
